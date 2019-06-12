@@ -1,0 +1,8 @@
+/* 這是CSS的註解*/
+/*標籤選擇器*/
+body{background:dodgerblue}
+/*class 選擇器*/
+.title{color:brown;font-weight:bold;font-size:50px}  
+.content{color:cadetblue;border:1px dashed blue;padding:10px;margin-top:10px}
+.keyword{color:burlywood}
+.underline{text-decoration: darkgreen underline}
